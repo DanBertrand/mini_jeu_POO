@@ -12,6 +12,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   pry
   time
 
